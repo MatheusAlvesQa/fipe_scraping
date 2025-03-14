@@ -1,0 +1,9 @@
+Projeto fipe_scraping com objetivo de automatizar tarefa de buscar dados de veículos na tabela fipe.
+
+Tecnologias utilizadas:
+	Python
+	Selenium WebDriver
+	Pandas
+	Undetected-Chromedriver
+
+Projeto feito apenas com intuito de praticar meu aprendizado :)
